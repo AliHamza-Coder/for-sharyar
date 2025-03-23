@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tactical Folding Knife",
+      "price": 129.99,
+      "description": "High-quality tactical folding knife with a durable stainless steel blade and ergonomic G10 handle. Features a secure liner lock mechanism and reversible pocket clip.",
+      "rating": 4.8,
+      "image": "/pic4.jpeg?height=400&width=400",
+      "gallery": [
+        "/pic2.jpeg?height=600&width=600",
+        "/pic6.jpeg?height=600&width=600",
+        "/pic7.jpeg?height=600&width=600"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Assisted Opening Knife",
+      "price": 49.99,
+      "description": "Fast and easy assisted opening knife with a sharp stainless steel blade and comfortable rubber handle. Features a secure liner lock mechanism and reversible pocket clip.",
+      "rating": 4.6,
+      "image": "/pic5.jpeg?height=400&width=400",
+      "gallery": [
+        "/pic1.jpeg?height=600&width=600",
+        "/pic3.jpeg?height=600&width=600"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pocket Knife",
+      "price": 34.99,
+      "description": "Compact and lightweight pocket knife with a sharp stainless steel blade and durable aluminum handle. Features a secure liner lock mechanism and reversible pocket clip.",
+      "rating": 4.5,
+      "image": "/pic6.jpeg?height=400&width=400",
+      "gallery": [
+        "/pic4.jpeg?height=600&width=600",
+        "/pic5.jpeg?height=600&width=600"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Folding Knife",
+      "price": 89.99,
+      "description": "High-quality folding knife with a durable stainless steel blade and ergonomic G10 handle. Features a secure liner lock mechanism and reversible pocket clip.",
+      "rating": 4.9,
+      "image": "/pic3.jpeg?height=400&width=400",
+      "gallery": [
+        "/pic2.jpeg?height=600&width=600",
+        "/pic1.jpeg?height=600&width=600"
+      ]
+    }
+  ]
+}
+
